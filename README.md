@@ -1,4 +1,4 @@
-# value-loader
+# About
 Hi, this value loader was written without using any libraries, pure Python. :)
 # Requirements
 - Python 3.x
