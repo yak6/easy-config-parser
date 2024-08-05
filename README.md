@@ -1,5 +1,5 @@
 # About
-Hi, this value loader was written without using any libraries, pure Python. :)
+This parser was written to simply load variables from a file. It has only two main functions, load and replace. If you enjoyed this project leave a star!
 # Requirements
 - Python 3.x
 # How to use
